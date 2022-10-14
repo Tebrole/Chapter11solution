@@ -1,0 +1,12 @@
+/Users/apple/RiderProjects/Chapter11/CreatingAndUsingObjects/bin/Debug/net6.0/CreatingAndUsingObjects.deps.json
+/Users/apple/RiderProjects/Chapter11/CreatingAndUsingObjects/bin/Debug/net6.0/CreatingAndUsingObjects.dll
+/Users/apple/RiderProjects/Chapter11/CreatingAndUsingObjects/bin/Debug/net6.0/CreatingAndUsingObjects.pdb
+/Users/apple/RiderProjects/Chapter11/CreatingAndUsingObjects/obj/Debug/net6.0/CreatingAndUsingObjects.csproj.AssemblyReference.cache
+/Users/apple/RiderProjects/Chapter11/CreatingAndUsingObjects/obj/Debug/net6.0/CreatingAndUsingObjects.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/RiderProjects/Chapter11/CreatingAndUsingObjects/obj/Debug/net6.0/CreatingAndUsingObjects.AssemblyInfoInputs.cache
+/Users/apple/RiderProjects/Chapter11/CreatingAndUsingObjects/obj/Debug/net6.0/CreatingAndUsingObjects.AssemblyInfo.cs
+/Users/apple/RiderProjects/Chapter11/CreatingAndUsingObjects/obj/Debug/net6.0/CreatingAndUsingObjects.csproj.CoreCompileInputs.cache
+/Users/apple/RiderProjects/Chapter11/CreatingAndUsingObjects/obj/Debug/net6.0/CreatingAndUsingObjects.dll
+/Users/apple/RiderProjects/Chapter11/CreatingAndUsingObjects/obj/Debug/net6.0/refint/CreatingAndUsingObjects.dll
+/Users/apple/RiderProjects/Chapter11/CreatingAndUsingObjects/obj/Debug/net6.0/CreatingAndUsingObjects.pdb
+/Users/apple/RiderProjects/Chapter11/CreatingAndUsingObjects/obj/Debug/net6.0/ref/CreatingAndUsingObjects.dll

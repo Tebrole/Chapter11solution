@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Problem11-8/1.0.0": {
+        "dependencies": {
+          "CreatingAndUsingObjects": "1.0.0"
+        },
+        "runtime": {
+          "Problem11-8.dll": {}
+        }
+      },
+      "CreatingAndUsingObjects/1.0.0": {
+        "runtime": {
+          "CreatingAndUsingObjects.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Problem11-8/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CreatingAndUsingObjects/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

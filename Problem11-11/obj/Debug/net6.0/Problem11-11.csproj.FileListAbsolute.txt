@@ -1,0 +1,15 @@
+/Users/apple/RiderProjects/Chapter11/Problem11-11/bin/Debug/net6.0/Problem11-11
+/Users/apple/RiderProjects/Chapter11/Problem11-11/bin/Debug/net6.0/Problem11-11.deps.json
+/Users/apple/RiderProjects/Chapter11/Problem11-11/bin/Debug/net6.0/Problem11-11.runtimeconfig.json
+/Users/apple/RiderProjects/Chapter11/Problem11-11/bin/Debug/net6.0/Problem11-11.dll
+/Users/apple/RiderProjects/Chapter11/Problem11-11/bin/Debug/net6.0/Problem11-11.pdb
+/Users/apple/RiderProjects/Chapter11/Problem11-11/obj/Debug/net6.0/Problem11-11.csproj.AssemblyReference.cache
+/Users/apple/RiderProjects/Chapter11/Problem11-11/obj/Debug/net6.0/Problem11-11.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/RiderProjects/Chapter11/Problem11-11/obj/Debug/net6.0/Problem11-11.AssemblyInfoInputs.cache
+/Users/apple/RiderProjects/Chapter11/Problem11-11/obj/Debug/net6.0/Problem11-11.AssemblyInfo.cs
+/Users/apple/RiderProjects/Chapter11/Problem11-11/obj/Debug/net6.0/Problem11-11.csproj.CoreCompileInputs.cache
+/Users/apple/RiderProjects/Chapter11/Problem11-11/obj/Debug/net6.0/Problem11-11.dll
+/Users/apple/RiderProjects/Chapter11/Problem11-11/obj/Debug/net6.0/refint/Problem11-11.dll
+/Users/apple/RiderProjects/Chapter11/Problem11-11/obj/Debug/net6.0/Problem11-11.pdb
+/Users/apple/RiderProjects/Chapter11/Problem11-11/obj/Debug/net6.0/Problem11-11.genruntimeconfig.cache
+/Users/apple/RiderProjects/Chapter11/Problem11-11/obj/Debug/net6.0/ref/Problem11-11.dll
